@@ -1,4 +1,4 @@
-#💱 Currency Converter App
+💱 Currency Converter App
 <br>
 This is a responsive React-based currency converter that allows users to convert amounts between different international currencies using real-time exchange rates.
 <br>
