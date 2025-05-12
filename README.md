@@ -1,3 +1,11 @@
+#💱 Currency Converter App
+<br>
+This is a responsive React-based currency converter that allows users to convert amounts between different international currencies using real-time exchange rates.
+<br>
+Website link : https://react-currency-converter-adi.netlify.app
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
