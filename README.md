@@ -4,6 +4,7 @@ This is a responsive React-based currency converter that allows users to convert
 <br>
 Website link : https://react-currency-converter-adi.netlify.app
 
+<img width="1470" alt="Screenshot 2025-05-12 at 11 59 12 AM" src="https://github.com/user-attachments/assets/48d651eb-b6d3-491a-8ccb-8ea60adedff2" />
 
 
 # React + Vite
